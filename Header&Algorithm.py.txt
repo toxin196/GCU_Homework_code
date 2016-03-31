@@ -1,0 +1,46 @@
+###############################################################################
+#
+# Filename: program_file_name.py
+#
+# CS Assignment: Programming Project #, page ###
+# Text: The Practice of Computing with Python
+#
+# Version History
+#
+# Date:       Name:                ChangeNo:  Comment:
+# MM/DD/YYYY  Programmer Name      00000000    Create Algorithm  
+# MM/DD/YYYY  Programmer Name      00000003    Implement Algorithm: Main Logic & Test 
+# MM/DD/YYYY  Programmer Name      00000001    Added Functions & Test
+# MM/DD/YYYY  Programmer Name      00000002    Final Cleanup and More Testing
+#
+###############################################################################
+#
+# Problem Description: 
+# Write a program to ..............................
+# and so forth and so on ..........................
+#
+###############################################################################
+#
+# Pseudocode Algorithm:
+#
+# Main Step 1 - Setup Stuff 
+# - First in Step 1 setup important thing
+# - Second in Step 1 initialize important thing
+# - Third in Step 1 do another important thing if needed
+#
+# Main Step 2: Do Stuff until the doing is done
+# - First in Step 2 do an important thing
+# - Second in Step 2 do next important thing
+# - Third in Step 2 do another important thing
+#
+# Main Step 3 - Endup Stuff
+# - First in Step 3 report results as needed
+# - Second in Step 3 do ending clean up
+# - Third in Step 3 do last important thing
+#
+###############################################################################
+#
+# Inputs:
+# Outputs:
+#
+###############################################################################
